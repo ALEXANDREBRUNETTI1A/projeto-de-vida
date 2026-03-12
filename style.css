@@ -62,6 +62,7 @@ body {
 @media screen and (min-width: 768px) {
   /* Código omitido */
 
+  /*quando a largura mínima da tela for maior que 768px.*/
   .botao:last-child {
     border-radius: 0 40px 0 0;
   }
