@@ -2,11 +2,11 @@
  
 /*criando variáveis*/
 :root { 
-    --cor-de-fundo: #1b2288; 
-    --lilas: #2e60cec9; 
-    --branco: #FFFFFF; 
+    --cor-de-fundo:  #000000c9; 
+    --lilas: #000000c9; 
+    --branco: #000000; 
     --botao-ativo: #2318c0e7; 
-    --botao-inativo: rgba(21, 47, 194, 0.5); 
+    --botao-inativo: rgba(0, 0, 0, 0.5); 
     --texto-fundo: rgba(3, 170, 236, 0.853);
 }
 
