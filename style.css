@@ -2,8 +2,8 @@
  
 /*criando variáveis*/
 :root { 
-    --cor-de-fundo:  #000000c9; 
-    --lilas: #000000c9; 
+    --cor-de-fundo:  #000000; 
+    --lilas: #000000; 
     --branco: #000000; 
     --botao-ativo: #2318c0e7; 
     --botao-inativo: rgba(0, 0, 0, 0.5); 
