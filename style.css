@@ -4,7 +4,7 @@
 :root { 
     --cor-de-fundo:  #000000; 
     --lilas: #000000; 
-    --branco: #000000; 
+    --branco: #ffffff; 
     --botao-ativo: #2318c0e7; 
     --botao-inativo: rgba(0, 0, 0, 0.5); 
     --texto-fundo: rgba(3, 170, 236, 0.853);
